@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "www — (Remote)",
+			"uri": "sftp://beauty/"
+		}
+	],
+	"settings": {}
+}
